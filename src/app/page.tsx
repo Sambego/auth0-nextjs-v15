@@ -1,7 +1,7 @@
 import { Alert, AlertTitle } from "@/components/ui/alert";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { Button } from "@/components/ui/button";
 import { auth0Client } from "@/lib/auth";
 import { GitHubLogoIcon } from "@radix-ui/react-icons";
 import Image from "next/image";
