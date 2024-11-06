@@ -90,7 +90,7 @@ export default async function Home() {
               rel="noopener noreferrer"
             >
               <GitHubLogoIcon />
-              Auth0 Next.js SDK v4-alpha
+              Auth0 Next.js SDK v4 Beta
             </Link>
           </Button>
         </div>

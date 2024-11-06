@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Auth0 Next.js SDK v4 Alpha",
+  title: "Auth0 Next.js SDK v4 Beta",
   description:
     "Our new Auth0 SDK, v4 supports the latest version of Next.js v15 out of the box.",
 };
