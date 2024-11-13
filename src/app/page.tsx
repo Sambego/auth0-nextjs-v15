@@ -68,7 +68,7 @@ export default async function Home() {
             <span className="font-mono">
               npm install @auth0/nextjs-auth0
               <span className="bg-neutral-700 py-1 px-2 rounded-full">
-                @v4.0.0-beta.0
+                @v4.0.0-beta.1
               </span>
             </span>
           </Alert>
@@ -85,7 +85,7 @@ export default async function Home() {
           )}
           <Button asChild variant="outline">
             <Link
-              href="https://github.com/auth0/nextjs-auth0/tree/v4.0.0-beta.0"
+              href="https://github.com/auth0/nextjs-auth0/tree/v4.0.0-beta.1"
               target="_blank"
               rel="noopener noreferrer"
             >
